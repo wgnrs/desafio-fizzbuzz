@@ -1,0 +1,15 @@
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\bin\Debug\net8.0\desafio-fizzbuzz.exe
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\bin\Debug\net8.0\desafio-fizzbuzz.deps.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\bin\Debug\net8.0\desafio-fizzbuzz.runtimeconfig.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\bin\Debug\net8.0\desafio-fizzbuzz.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\bin\Debug\net8.0\desafio-fizzbuzz.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\obj\Debug\net8.0\desafio-fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\obj\Debug\net8.0\desafio-fizzbuzz.AssemblyInfoInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\obj\Debug\net8.0\desafio-fizzbuzz.AssemblyInfo.cs
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\obj\Debug\net8.0\desafio-fizzbuzz.csproj.CoreCompileInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\obj\Debug\net8.0\desafio-fizzbuzz.sourcelink.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\obj\Debug\net8.0\desafio-fizzbuzz.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\obj\Debug\net8.0\refint\desafio-fizzbuzz.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\obj\Debug\net8.0\desafio-fizzbuzz.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\obj\Debug\net8.0\desafio-fizzbuzz.genruntimeconfig.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Desafio FizzBuzz\desafio-fizzbuzz\obj\Debug\net8.0\ref\desafio-fizzbuzz.dll
